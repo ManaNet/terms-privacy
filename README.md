@@ -1,14 +1,16 @@
 ## Mana's Privacy and Policy
 
-1-3. What data do you collect, including but not limited to personal identifying information, why do you need the data and how do you use the data?
-- Mana stores the identification numbers of the servers and users, in order to identify the server and user associated with our other data which involves the channels that they specify to
-bind Mana onto, for example, if you were to use Mana's Yuriverse feature, you'd have to set a channel where she will send messages. Other than that, we do not store any other data from
-Discord (with store being saved in the database).
+This is the official privacy and policy of the Discord bot [Mana](https://manabot.fun), the terms 'we', 'us', 'our' refer to the developers of Mana while the terms 'you' and 'your' will refer to the independent entities or individuals accessing or utilizing our bot while 'bot' will refer to the Discord bot itself.
 
-4. Other than Discord the company and users of your own bot on Discord the platform, who do you share your collected data with, if anyone?
+Please note that any of these terms and conditions, privacy and policy may change without notice to you, the individual, and will be effective immediately upon change. By using our bot, you consent to all these terms and conditions, privacy and policy that we provide.
+
+**1-3**. What data do you collect, including but not limited to personal identifying information, why do you need the data and how do you use the data?
+- Mana stores the identification numbers of the servers and users, in order to identify the server and user associated with our other data which involves the channels that they specify to bind Mana onto, for example, if you were to use Mana's Yuriverse feature, you'd have to set a channel where she will send messages. Other than that, we do not store any other data from Discord (with store being saved in the database).
+
+**4**. Other than Discord the company and users of your own bot on Discord the platform, who do you share your collected data with, if anyone?
 - Mana shares the data with no external nor third-party entities. We completely adhere into the belief that the user's data should always be private.
 
-5-6. How can users contact you if they have concerns about your bot or if they want to have their data removed?
+**5-6**. How can users contact you if they have concerns about your bot or if they want to have their data removed?
 - All users are welcome to contact me through my business email: manabot.on@gmail.com
 - You can also opt to contact me through my support server: https://manabot.fun/support
 - Data removal is a process that takes at least 12-24 hours depending on how busy the developer is.
